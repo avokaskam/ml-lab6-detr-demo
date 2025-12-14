@@ -12,7 +12,7 @@ https://github.com/facebookresearch/detr
 a) Запущено standalone демо в Google Colab із pretrained моделлю DETR.
 b) Зафіксовано результати роботи демо.
 c) Додано multi-scale TTA (використано декілька масштабів Resize під час інференсу) та застосовано NMS по класах для зменшення дублюючих рамок.
-5.	Як запустити: відкрити Google Colab: https://colab.research.google.com/drive/1YJJcln0ONLTER-X8lSivaIpMtn4_BPBT?authuser=2#scrollTo=GJhCp8y0-b-H 
+5.	Як запустити: відкрити Google Colab: https://colab.research.google.com/drive/1YJJcln0ONLTER-X8lSivaIpMtn4_BPBT?authuser=2#scrollTo=kqe_0nc5dyAq
 Відкрити Colab-ноутбук та виконати всі комірки зверху вниз.
 Або Python-скрипт
 Встановити залежності:
